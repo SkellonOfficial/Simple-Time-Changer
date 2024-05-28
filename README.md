@@ -1,4 +1,4 @@
-# Simple Timer Changer
+# Simple Time Changer
 - F3 To toggle GUI
 - F2 To toggle color
 
